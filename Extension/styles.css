@@ -1,0 +1,21 @@
+
+.button-style {
+    margin-top: 1rem;
+    display: block;
+    background: #1fa52c;
+    cursor: pointer;
+    border: none;
+    padding: 0.8rem 1.2rem 0.8rem 1.2rem;
+    border-radius: 2rem;
+    font-weight: 500;
+    color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    font-size: small;
+}
+.button-style:hover {
+    background: #23832d;
+}
+.button-style:active{
+    box-shadow: none;
+    color: #e4e4e4;
+}
